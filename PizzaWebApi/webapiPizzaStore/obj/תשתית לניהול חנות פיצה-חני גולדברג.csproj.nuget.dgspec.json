@@ -1,34 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "L:\\webAPI\\הגשות\\lesson6\\תמי שיקוביצקי ואפרת מרקוביץ\\PizzaWebApi\\PizzaWebApi\\webapiPizzaStore\\תשתית לניהול חנות פיצה-חני גולדברג.csproj": {}
+    "C:\\Users\\USER\\Desktop\\webapi\\LESSON6_1\\PizzaWebApi\\PizzaWebApi\\webapiPizzaStore\\תשתית לניהול חנות פיצה-חני גולדברג.csproj": {}
   },
   "projects": {
-    "L:\\webAPI\\הגשות\\lesson6\\תמי שיקוביצקי ואפרת מרקוביץ\\PizzaWebApi\\PizzaWebApi\\FireService\\FireService.csproj": {
+    "C:\\Users\\USER\\Desktop\\webapi\\LESSON6_1\\PizzaWebApi\\PizzaWebApi\\FireService\\FireService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "L:\\webAPI\\הגשות\\lesson6\\תמי שיקוביצקי ואפרת מרקוביץ\\PizzaWebApi\\PizzaWebApi\\FireService\\FireService.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\webapi\\LESSON6_1\\PizzaWebApi\\PizzaWebApi\\FireService\\FireService.csproj",
         "projectName": "FireService",
-        "projectPath": "L:\\webAPI\\הגשות\\lesson6\\תמי שיקוביצקי ואפרת מרקוביץ\\PizzaWebApi\\PizzaWebApi\\FireService\\FireService.csproj",
-        "packagesPath": "C:\\Users\\מרקוביץ מרים\\.nuget\\packages\\",
-        "outputPath": "L:\\webAPI\\הגשות\\lesson6\\תמי שיקוביצקי ואפרת מרקוביץ\\PizzaWebApi\\PizzaWebApi\\FireService\\obj\\",
+        "projectPath": "C:\\Users\\USER\\Desktop\\webapi\\LESSON6_1\\PizzaWebApi\\PizzaWebApi\\FireService\\FireService.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\webapi\\LESSON6_1\\PizzaWebApi\\PizzaWebApi\\FireService\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\מרקוביץ מרים\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -63,62 +56,41 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.15, 7.0.15]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.15, 7.0.15]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.15, 7.0.15]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "L:\\webAPI\\הגשות\\lesson6\\תמי שיקוביצקי ואפרת מרקוביץ\\PizzaWebApi\\PizzaWebApi\\MyModelse\\MyModelse.csproj": {
+    "C:\\Users\\USER\\Desktop\\webapi\\LESSON6_1\\PizzaWebApi\\PizzaWebApi\\MyModelse\\MyModelse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "L:\\webAPI\\הגשות\\lesson6\\תמי שיקוביצקי ואפרת מרקוביץ\\PizzaWebApi\\PizzaWebApi\\MyModelse\\MyModelse.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\webapi\\LESSON6_1\\PizzaWebApi\\PizzaWebApi\\MyModelse\\MyModelse.csproj",
         "projectName": "MyModelse",
-        "projectPath": "L:\\webAPI\\הגשות\\lesson6\\תמי שיקוביצקי ואפרת מרקוביץ\\PizzaWebApi\\PizzaWebApi\\MyModelse\\MyModelse.csproj",
-        "packagesPath": "C:\\Users\\מרקוביץ מרים\\.nuget\\packages\\",
-        "outputPath": "L:\\webAPI\\הגשות\\lesson6\\תמי שיקוביצקי ואפרת מרקוביץ\\PizzaWebApi\\PizzaWebApi\\MyModelse\\obj\\",
+        "projectPath": "C:\\Users\\USER\\Desktop\\webapi\\LESSON6_1\\PizzaWebApi\\PizzaWebApi\\MyModelse\\MyModelse.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\webapi\\LESSON6_1\\PizzaWebApi\\PizzaWebApi\\MyModelse\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\מרקוביץ מרים\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {
-              "L:\\webAPI\\הגשות\\lesson6\\תמי שיקוביצקי ואפרת מרקוביץ\\PizzaWebApi\\PizzaWebApi\\FireService\\FireService.csproj": {
-                "projectPath": "L:\\webAPI\\הגשות\\lesson6\\תמי שיקוביצקי ואפרת מרקוביץ\\PizzaWebApi\\PizzaWebApi\\FireService\\FireService.csproj"
+              "C:\\Users\\USER\\Desktop\\webapi\\LESSON6_1\\PizzaWebApi\\PizzaWebApi\\FireService\\FireService.csproj": {
+                "projectPath": "C:\\Users\\USER\\Desktop\\webapi\\LESSON6_1\\PizzaWebApi\\PizzaWebApi\\FireService\\FireService.csproj"
               }
             }
           }
@@ -130,8 +102,8 @@
         }
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "imports": [
             "net461",
             "net462",
@@ -148,46 +120,39 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "L:\\webAPI\\הגשות\\lesson6\\תמי שיקוביצקי ואפרת מרקוביץ\\PizzaWebApi\\PizzaWebApi\\MyS\\MyS.csproj": {
+    "C:\\Users\\USER\\Desktop\\webapi\\LESSON6_1\\PizzaWebApi\\PizzaWebApi\\MyS\\MyS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "L:\\webAPI\\הגשות\\lesson6\\תמי שיקוביצקי ואפרת מרקוביץ\\PizzaWebApi\\PizzaWebApi\\MyS\\MyS.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\webapi\\LESSON6_1\\PizzaWebApi\\PizzaWebApi\\MyS\\MyS.csproj",
         "projectName": "MyS",
-        "projectPath": "L:\\webAPI\\הגשות\\lesson6\\תמי שיקוביצקי ואפרת מרקוביץ\\PizzaWebApi\\PizzaWebApi\\MyS\\MyS.csproj",
-        "packagesPath": "C:\\Users\\מרקוביץ מרים\\.nuget\\packages\\",
-        "outputPath": "L:\\webAPI\\הגשות\\lesson6\\תמי שיקוביצקי ואפרת מרקוביץ\\PizzaWebApi\\PizzaWebApi\\MyS\\obj\\",
+        "projectPath": "C:\\Users\\USER\\Desktop\\webapi\\LESSON6_1\\PizzaWebApi\\PizzaWebApi\\MyS\\MyS.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\webapi\\LESSON6_1\\PizzaWebApi\\PizzaWebApi\\MyS\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\מרקוביץ מרים\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {
-              "L:\\webAPI\\הגשות\\lesson6\\תמי שיקוביצקי ואפרת מרקוביץ\\PizzaWebApi\\PizzaWebApi\\FireService\\FireService.csproj": {
-                "projectPath": "L:\\webAPI\\הגשות\\lesson6\\תמי שיקוביצקי ואפרת מרקוביץ\\PizzaWebApi\\PizzaWebApi\\FireService\\FireService.csproj"
+              "C:\\Users\\USER\\Desktop\\webapi\\LESSON6_1\\PizzaWebApi\\PizzaWebApi\\FireService\\FireService.csproj": {
+                "projectPath": "C:\\Users\\USER\\Desktop\\webapi\\LESSON6_1\\PizzaWebApi\\PizzaWebApi\\FireService\\FireService.csproj"
               },
-              "L:\\webAPI\\הגשות\\lesson6\\תמי שיקוביצקי ואפרת מרקוביץ\\PizzaWebApi\\PizzaWebApi\\MyModelse\\MyModelse.csproj": {
-                "projectPath": "L:\\webAPI\\הגשות\\lesson6\\תמי שיקוביצקי ואפרת מרקוביץ\\PizzaWebApi\\PizzaWebApi\\MyModelse\\MyModelse.csproj"
+              "C:\\Users\\USER\\Desktop\\webapi\\LESSON6_1\\PizzaWebApi\\PizzaWebApi\\MyModelse\\MyModelse.csproj": {
+                "projectPath": "C:\\Users\\USER\\Desktop\\webapi\\LESSON6_1\\PizzaWebApi\\PizzaWebApi\\MyModelse\\MyModelse.csproj"
               }
             }
           }
@@ -199,8 +164,8 @@
         }
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "imports": [
             "net461",
             "net462",
@@ -217,49 +182,42 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "L:\\webAPI\\הגשות\\lesson6\\תמי שיקוביצקי ואפרת מרקוביץ\\PizzaWebApi\\PizzaWebApi\\webapiPizzaStore\\תשתית לניהול חנות פיצה-חני גולדברג.csproj": {
+    "C:\\Users\\USER\\Desktop\\webapi\\LESSON6_1\\PizzaWebApi\\PizzaWebApi\\webapiPizzaStore\\תשתית לניהול חנות פיצה-חני גולדברג.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "L:\\webAPI\\הגשות\\lesson6\\תמי שיקוביצקי ואפרת מרקוביץ\\PizzaWebApi\\PizzaWebApi\\webapiPizzaStore\\תשתית לניהול חנות פיצה-חני גולדברג.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\webapi\\LESSON6_1\\PizzaWebApi\\PizzaWebApi\\webapiPizzaStore\\תשתית לניהול חנות פיצה-חני גולדברג.csproj",
         "projectName": "תשתית לניהול חנות פיצה-חני גולדברג",
-        "projectPath": "L:\\webAPI\\הגשות\\lesson6\\תמי שיקוביצקי ואפרת מרקוביץ\\PizzaWebApi\\PizzaWebApi\\webapiPizzaStore\\תשתית לניהול חנות פיצה-חני גולדברג.csproj",
-        "packagesPath": "C:\\Users\\מרקוביץ מרים\\.nuget\\packages\\",
-        "outputPath": "L:\\webAPI\\הגשות\\lesson6\\תמי שיקוביצקי ואפרת מרקוביץ\\PizzaWebApi\\PizzaWebApi\\webapiPizzaStore\\obj\\",
+        "projectPath": "C:\\Users\\USER\\Desktop\\webapi\\LESSON6_1\\PizzaWebApi\\PizzaWebApi\\webapiPizzaStore\\תשתית לניהול חנות פיצה-חני גולדברג.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\webapi\\LESSON6_1\\PizzaWebApi\\PizzaWebApi\\webapiPizzaStore\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\מרקוביץ מרים\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {
-              "L:\\webAPI\\הגשות\\lesson6\\תמי שיקוביצקי ואפרת מרקוביץ\\PizzaWebApi\\PizzaWebApi\\FireService\\FireService.csproj": {
-                "projectPath": "L:\\webAPI\\הגשות\\lesson6\\תמי שיקוביצקי ואפרת מרקוביץ\\PizzaWebApi\\PizzaWebApi\\FireService\\FireService.csproj"
+              "C:\\Users\\USER\\Desktop\\webapi\\LESSON6_1\\PizzaWebApi\\PizzaWebApi\\FireService\\FireService.csproj": {
+                "projectPath": "C:\\Users\\USER\\Desktop\\webapi\\LESSON6_1\\PizzaWebApi\\PizzaWebApi\\FireService\\FireService.csproj"
               },
-              "L:\\webAPI\\הגשות\\lesson6\\תמי שיקוביצקי ואפרת מרקוביץ\\PizzaWebApi\\PizzaWebApi\\MyModelse\\MyModelse.csproj": {
-                "projectPath": "L:\\webAPI\\הגשות\\lesson6\\תמי שיקוביצקי ואפרת מרקוביץ\\PizzaWebApi\\PizzaWebApi\\MyModelse\\MyModelse.csproj"
+              "C:\\Users\\USER\\Desktop\\webapi\\LESSON6_1\\PizzaWebApi\\PizzaWebApi\\MyModelse\\MyModelse.csproj": {
+                "projectPath": "C:\\Users\\USER\\Desktop\\webapi\\LESSON6_1\\PizzaWebApi\\PizzaWebApi\\MyModelse\\MyModelse.csproj"
               },
-              "L:\\webAPI\\הגשות\\lesson6\\תמי שיקוביצקי ואפרת מרקוביץ\\PizzaWebApi\\PizzaWebApi\\MyS\\MyS.csproj": {
-                "projectPath": "L:\\webAPI\\הגשות\\lesson6\\תמי שיקוביצקי ואפרת מרקוביץ\\PizzaWebApi\\PizzaWebApi\\MyS\\MyS.csproj"
+              "C:\\Users\\USER\\Desktop\\webapi\\LESSON6_1\\PizzaWebApi\\PizzaWebApi\\MyS\\MyS.csproj": {
+                "projectPath": "C:\\Users\\USER\\Desktop\\webapi\\LESSON6_1\\PizzaWebApi\\PizzaWebApi\\MyS\\MyS.csproj"
               }
             }
           }
@@ -271,8 +229,8 @@
         }
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "dependencies": {
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -298,7 +256,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

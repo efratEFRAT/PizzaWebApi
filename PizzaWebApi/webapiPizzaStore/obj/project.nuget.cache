@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "E7JEqaLfWyPVaZU9EJPJNkuP3CcvBxEDy+GDeOcF8Qvg4pvD5l++P/547fvHqb2aIN6IF/vQ48jfp1ED5Bcbww==",
+  "dgSpecHash": "RPHk32qL/TVvud3cili+2B3199D9RMp+S2dY9stmCijkcXftRQctaRZ6rNvZs9+XbkewzCKJ6z6HULtW+fGD0Q==",
   "success": true,
-  "projectFilePath": "L:\\webAPI\\הגשות\\lesson6\\תמי שיקוביצקי ואפרת מרקוביץ\\PizzaWebApi\\PizzaWebApi\\webapiPizzaStore\\תשתית לניהול חנות פיצה-חני גולדברג.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\webapi\\LESSON6_1\\PizzaWebApi\\PizzaWebApi\\webapiPizzaStore\\תשתית לניהול חנות פיצה-חני גולדברג.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\מרקוביץ מרים\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
-    "C:\\Users\\מרקוביץ מרים\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\מרקוביץ מרים\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
-    "C:\\Users\\מרקוביץ מרים\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
-    "C:\\Users\\מרקוביץ מרים\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
-    "C:\\Users\\מרקוביץ מרים\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
-    "C:\\Users\\מרקוביץ מרים\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
   ],
   "logs": []
 }

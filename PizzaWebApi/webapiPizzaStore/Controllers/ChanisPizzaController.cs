@@ -1,7 +1,12 @@
-using System.Security.Cryptography;
+using System;
+using System.Collections.Generic;
+using System.Diagnostics;
+using System.Linq;
+using System.Threading.Tasks;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 using FireService;
 using FireService.Interfaces;
-using Microsoft.AspNetCore.Mvc;
 using MyModelse;
 using MyModelse.Interface;
 namespace webapiPizzaStore.Controllers;
@@ -50,10 +55,10 @@ public class ChanisPizzaController :BaceController
 
       [Route("[action]/{name}/{id}/{ifGloten}")]
       [HttpPost]
-      public IActionResult setPizza(string name, int id, bool ifGloten)
+      public void setPizza(string name, int id, bool ifGloten)
       {
-          _chanisPizza.setPizza (name,id,ifGloten);
-          return Created();
+         _chanisPizza.setPizza(name,id,ifGloten);
+          
       }
 
       [Route("[action]/{id}")]
