@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ARJsNwQQuPwAYqEUgvoiqjEgfNx7lD7zoJsumfHw3TdELU/dXItfbSWt72okqBDkjZWf/Dbu88c5RIL8uf/h0Q==",
+  "success": true,
+  "projectFilePath": "L:\\webAPI\\הגשות\\lesson6\\תמי שיקוביצקי ואפרת מרקוביץ\\PizzaWebApi\\PizzaWebApi\\FireService\\FireService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\מרקוביץ מרים\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\מרקוביץ מרים\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\מרקוביץ מרים\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\מרקוביץ מרים\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

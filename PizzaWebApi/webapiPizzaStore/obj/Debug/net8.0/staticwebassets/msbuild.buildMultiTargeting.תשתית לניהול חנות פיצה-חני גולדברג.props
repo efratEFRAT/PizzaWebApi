@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\תשתית לניהול חנות פיצה-חני גולדברג.props" />
+</Project>

@@ -1,0 +1,50 @@
+H:\webApi\pizza\MyS\obj\Debug\net8.0\MyS.csproj.AssemblyReference.cache
+H:\webApi\pizza\MyS\obj\Debug\net8.0\MyS.GeneratedMSBuildEditorConfig.editorconfig
+H:\webApi\pizza\MyS\obj\Debug\net8.0\MyS.AssemblyInfoInputs.cache
+H:\webApi\pizza\MyS\obj\Debug\net8.0\MyS.AssemblyInfo.cs
+H:\webApi\pizza\MyS\obj\Debug\net8.0\MyS.csproj.CoreCompileInputs.cache
+H:\webApi\pizza\MyS\bin\Debug\net8.0\MyS.deps.json
+H:\webApi\pizza\MyS\bin\Debug\net8.0\MyS.dll
+H:\webApi\pizza\MyS\bin\Debug\net8.0\MyS.pdb
+H:\webApi\pizza\MyS\bin\Debug\net8.0\MyModelse.dll
+H:\webApi\pizza\MyS\bin\Debug\net8.0\MyModelse.pdb
+H:\webApi\pizza\MyS\obj\Debug\net8.0\MyS.csproj.CopyComplete
+H:\webApi\pizza\MyS\obj\Debug\net8.0\MyS.dll
+H:\webApi\pizza\MyS\obj\Debug\net8.0\refint\MyS.dll
+H:\webApi\pizza\MyS\obj\Debug\net8.0\MyS.pdb
+H:\webApi\pizza\MyS\obj\Debug\net8.0\ref\MyS.dll
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyS\obj\Debug\net8.0\MyS.dll
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyS\obj\Debug\net8.0\refint\MyS.dll
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyS\obj\Debug\net8.0\MyS.pdb
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyS\bin\Debug\net8.0\MyS.deps.json
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyS\bin\Debug\net8.0\MyS.dll
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyS\bin\Debug\net8.0\MyS.pdb
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyS\bin\Debug\net8.0\FireService.dll
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyS\bin\Debug\net8.0\MyModelse.dll
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyS\bin\Debug\net8.0\MyModelse.pdb
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyS\bin\Debug\net8.0\FireService.pdb
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyS\obj\Debug\net8.0\MyS.csproj.AssemblyReference.cache
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyS\obj\Debug\net8.0\MyS.GeneratedMSBuildEditorConfig.editorconfig
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyS\obj\Debug\net8.0\MyS.AssemblyInfoInputs.cache
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyS\obj\Debug\net8.0\MyS.AssemblyInfo.cs
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyS\obj\Debug\net8.0\MyS.csproj.CoreCompileInputs.cache
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyS\obj\Debug\net8.0\MyS.sourcelink.json
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyS\obj\Debug\net8.0\MyS.csproj.CopyComplete
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyS\obj\Debug\net8.0\ref\MyS.dll
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyS\bin\Debug\net8.0\MyS.deps.json
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyS\bin\Debug\net8.0\MyS.dll
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyS\bin\Debug\net8.0\MyS.pdb
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyS\bin\Debug\net8.0\FireService.dll
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyS\bin\Debug\net8.0\MyModelse.dll
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyS\bin\Debug\net8.0\MyModelse.pdb
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyS\bin\Debug\net8.0\FireService.pdb
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyS\obj\Debug\net8.0\MyS.csproj.AssemblyReference.cache
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyS\obj\Debug\net8.0\MyS.GeneratedMSBuildEditorConfig.editorconfig
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyS\obj\Debug\net8.0\MyS.AssemblyInfoInputs.cache
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyS\obj\Debug\net8.0\MyS.AssemblyInfo.cs
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyS\obj\Debug\net8.0\MyS.csproj.CoreCompileInputs.cache
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyS\obj\Debug\net8.0\MyS.csproj.CopyComplete
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyS\obj\Debug\net8.0\MyS.dll
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyS\obj\Debug\net8.0\refint\MyS.dll
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyS\obj\Debug\net8.0\MyS.pdb
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyS\obj\Debug\net8.0\ref\MyS.dll

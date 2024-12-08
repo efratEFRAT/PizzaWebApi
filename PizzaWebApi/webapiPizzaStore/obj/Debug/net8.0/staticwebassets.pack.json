@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "L:\\webAPI\\הגשות\\lesson6\\תמי שיקוביצקי ואפרת מרקוביץ\\PizzaWebApi\\PizzaWebApi\\webapiPizzaStore\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "L:\\webAPI\\הגשות\\lesson6\\תמי שיקוביצקי ואפרת מרקוביץ\\PizzaWebApi\\PizzaWebApi\\webapiPizzaStore\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "L:\\webAPI\\הגשות\\lesson6\\תמי שיקוביצקי ואפרת מרקוביץ\\PizzaWebApi\\PizzaWebApi\\webapiPizzaStore\\wwwroot\\js\\page.js",
+      "PackagePath": "staticwebassets\\js\\page.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.תשתית לניהול חנות פיצה-חני גולדברג.props",
+      "PackagePath": "build\\תשתית לניהול חנות פיצה-חני גולדברג.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.תשתית לניהול חנות פיצה-חני גולדברג.props",
+      "PackagePath": "buildMultiTargeting\\תשתית לניהול חנות פיצה-חני גולדברג.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.תשתית לניהול חנות פיצה-חני גולדברג.props",
+      "PackagePath": "buildTransitive\\תשתית לניהול חנות פיצה-חני גולדברג.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.תשתית לניהול חנות פיצה-חני גולדברג.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

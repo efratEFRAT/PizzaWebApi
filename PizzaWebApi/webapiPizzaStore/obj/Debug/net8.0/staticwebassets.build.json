@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "qJak2m5YJObueqf1TVXeEfmkgka4dyykb27tm2X0Zz0=",
+  "Source": "תשתית לניהול חנות פיצה-חני גולדברג",
+  "BasePath": "_content/תשתית לניהול חנות פיצה-חני גולדברג",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "תשתית לניהול חנות פיצה-חני גולדברג\\wwwroot",
+      "Source": "תשתית לניהול חנות פיצה-חני גולדברג",
+      "ContentRoot": "L:\\webAPI\\הגשות\\lesson6\\תמי שיקוביצקי ואפרת מרקוביץ\\PizzaWebApi\\PizzaWebApi\\webapiPizzaStore\\wwwroot\\",
+      "BasePath": "_content/תשתית לניהול חנות פיצה-חני גולדברג",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "L:\\webAPI\\הגשות\\lesson6\\תמי שיקוביצקי ואפרת מרקוביץ\\PizzaWebApi\\PizzaWebApi\\webapiPizzaStore\\wwwroot\\css\\site.css",
+      "SourceId": "תשתית לניהול חנות פיצה-חני גולדברג",
+      "SourceType": "Discovered",
+      "ContentRoot": "L:\\webAPI\\הגשות\\lesson6\\תמי שיקוביצקי ואפרת מרקוביץ\\PizzaWebApi\\PizzaWebApi\\webapiPizzaStore\\wwwroot\\",
+      "BasePath": "_content/תשתית לניהול חנות פיצה-חני גולדברג",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "L:\\webAPI\\הגשות\\lesson6\\תמי שיקוביצקי ואפרת מרקוביץ\\PizzaWebApi\\PizzaWebApi\\webapiPizzaStore\\wwwroot\\index.html",
+      "SourceId": "תשתית לניהול חנות פיצה-חני גולדברג",
+      "SourceType": "Discovered",
+      "ContentRoot": "L:\\webAPI\\הגשות\\lesson6\\תמי שיקוביצקי ואפרת מרקוביץ\\PizzaWebApi\\PizzaWebApi\\webapiPizzaStore\\wwwroot\\",
+      "BasePath": "_content/תשתית לניהול חנות פיצה-חני גולדברג",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "L:\\webAPI\\הגשות\\lesson6\\תמי שיקוביצקי ואפרת מרקוביץ\\PizzaWebApi\\PizzaWebApi\\webapiPizzaStore\\wwwroot\\js\\page.js",
+      "SourceId": "תשתית לניהול חנות פיצה-חני גולדברג",
+      "SourceType": "Discovered",
+      "ContentRoot": "L:\\webAPI\\הגשות\\lesson6\\תמי שיקוביצקי ואפרת מרקוביץ\\PizzaWebApi\\PizzaWebApi\\webapiPizzaStore\\wwwroot\\",
+      "BasePath": "_content/תשתית לניהול חנות פיצה-חני גולדברג",
+      "RelativePath": "js/page.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\page.js"
+    }
+  ]
+}

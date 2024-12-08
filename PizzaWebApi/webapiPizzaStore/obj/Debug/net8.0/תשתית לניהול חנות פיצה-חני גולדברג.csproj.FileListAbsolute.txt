@@ -1,0 +1,148 @@
+H:\תשתית לניהול חנות פיצה-חני גולדברג\bin\Debug\net8.0\appsettings.Development.json
+H:\תשתית לניהול חנות פיצה-חני גולדברג\bin\Debug\net8.0\appsettings.json
+H:\תשתית לניהול חנות פיצה-חני גולדברג\bin\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.exe
+H:\תשתית לניהול חנות פיצה-חני גולדברג\bin\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.deps.json
+H:\תשתית לניהול חנות פיצה-חני גולדברג\bin\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.runtimeconfig.json
+H:\תשתית לניהול חנות פיצה-חני גולדברג\bin\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.dll
+H:\תשתית לניהול חנות פיצה-חני גולדברג\bin\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.pdb
+H:\תשתית לניהול חנות פיצה-חני גולדברג\bin\Debug\net8.0\Microsoft.OpenApi.dll
+H:\תשתית לניהול חנות פיצה-חני גולדברג\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\תשתית לניהול חנות פיצה-חני גולדברג\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\תשתית לניהול חנות פיצה-חני גולדברג\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.csproj.AssemblyReference.cache
+H:\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.GeneratedMSBuildEditorConfig.editorconfig
+H:\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.AssemblyInfoInputs.cache
+H:\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.AssemblyInfo.cs
+H:\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.csproj.CoreCompileInputs.cache
+H:\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.MvcApplicationPartsAssemblyInfo.cs
+H:\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.MvcApplicationPartsAssemblyInfo.cache
+H:\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\staticwebassets.build.json
+H:\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\staticwebassets.development.json
+H:\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\staticwebassets\msbuild.תשתית לניהול חנות פיצה-חני גולדברג.Microsoft.AspNetCore.StaticWebAssets.props
+H:\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\staticwebassets\msbuild.build.תשתית לניהול חנות פיצה-חני גולדברג.props
+H:\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.תשתית לניהול חנות פיצה-חני גולדברג.props
+H:\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.תשתית לניהול חנות פיצה-חני גולדברג.props
+H:\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\staticwebassets.pack.json
+H:\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\scopedcss\bundle\תשתית לניהול חנות פיצה-חני גולדברג.styles.css
+H:\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.csproj.CopyComplete
+H:\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.dll
+H:\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\refint\תשתית לניהול חנות פיצה-חני גולדברג.dll
+H:\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.pdb
+H:\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.genruntimeconfig.cache
+H:\תשתית לניהול חנות פיצה-חני גולדברג\obj\Debug\net8.0\ref\תשתית לניהול חנות פיצה-חני גולדברג.dll
+H:\webApi\pizza\webapiPizzaStore\bin\Debug\net8.0\appsettings.Development.json
+H:\webApi\pizza\webapiPizzaStore\bin\Debug\net8.0\appsettings.json
+H:\webApi\pizza\webapiPizzaStore\bin\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.exe
+H:\webApi\pizza\webapiPizzaStore\bin\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.deps.json
+H:\webApi\pizza\webapiPizzaStore\bin\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.runtimeconfig.json
+H:\webApi\pizza\webapiPizzaStore\bin\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.dll
+H:\webApi\pizza\webapiPizzaStore\bin\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.pdb
+H:\webApi\pizza\webapiPizzaStore\bin\Debug\net8.0\Microsoft.OpenApi.dll
+H:\webApi\pizza\webapiPizzaStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\webApi\pizza\webapiPizzaStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\webApi\pizza\webapiPizzaStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\webApi\pizza\webapiPizzaStore\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.csproj.AssemblyReference.cache
+H:\webApi\pizza\webapiPizzaStore\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.GeneratedMSBuildEditorConfig.editorconfig
+H:\webApi\pizza\webapiPizzaStore\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.AssemblyInfoInputs.cache
+H:\webApi\pizza\webapiPizzaStore\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.AssemblyInfo.cs
+H:\webApi\pizza\webapiPizzaStore\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.csproj.CoreCompileInputs.cache
+H:\webApi\pizza\webapiPizzaStore\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.MvcApplicationPartsAssemblyInfo.cs
+H:\webApi\pizza\webapiPizzaStore\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.MvcApplicationPartsAssemblyInfo.cache
+H:\webApi\pizza\webapiPizzaStore\obj\Debug\net8.0\staticwebassets.build.json
+H:\webApi\pizza\webapiPizzaStore\obj\Debug\net8.0\staticwebassets.development.json
+H:\webApi\pizza\webapiPizzaStore\obj\Debug\net8.0\staticwebassets\msbuild.תשתית לניהול חנות פיצה-חני גולדברג.Microsoft.AspNetCore.StaticWebAssets.props
+H:\webApi\pizza\webapiPizzaStore\obj\Debug\net8.0\staticwebassets\msbuild.build.תשתית לניהול חנות פיצה-חני גולדברג.props
+H:\webApi\pizza\webapiPizzaStore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.תשתית לניהול חנות פיצה-חני גולדברג.props
+H:\webApi\pizza\webapiPizzaStore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.תשתית לניהול חנות פיצה-חני גולדברג.props
+H:\webApi\pizza\webapiPizzaStore\obj\Debug\net8.0\staticwebassets.pack.json
+H:\webApi\pizza\webapiPizzaStore\obj\Debug\net8.0\scopedcss\bundle\תשתית לניהול חנות פיצה-חני גולדברג.styles.css
+H:\webApi\pizza\webapiPizzaStore\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.csproj.CopyComplete
+H:\webApi\pizza\webapiPizzaStore\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.dll
+H:\webApi\pizza\webapiPizzaStore\obj\Debug\net8.0\refint\תשתית לניהול חנות פיצה-חני גולדברג.dll
+H:\webApi\pizza\webapiPizzaStore\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.pdb
+H:\webApi\pizza\webapiPizzaStore\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.genruntimeconfig.cache
+H:\webApi\pizza\webapiPizzaStore\obj\Debug\net8.0\ref\תשתית לניהול חנות פיצה-חני גולדברג.dll
+H:\webApi\pizza\webapiPizzaStore\bin\Debug\net8.0\MyModelse.dll
+H:\webApi\pizza\webapiPizzaStore\bin\Debug\net8.0\MyS.dll
+H:\webApi\pizza\webapiPizzaStore\bin\Debug\net8.0\MyModelse.pdb
+H:\webApi\pizza\webapiPizzaStore\bin\Debug\net8.0\MyS.pdb
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.dll
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net8.0\refint\תשתית לניהול חנות פיצה-חני גולדברג.dll
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.pdb
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.csproj.AssemblyReference.cache
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.GeneratedMSBuildEditorConfig.editorconfig
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.AssemblyInfoInputs.cache
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.AssemblyInfo.cs
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.csproj.CoreCompileInputs.cache
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.MvcApplicationPartsAssemblyInfo.cs
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.MvcApplicationPartsAssemblyInfo.cache
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.sourcelink.json
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\bin\Debug\net8.0\appsettings.Development.json
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\bin\Debug\net8.0\appsettings.json
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\bin\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.exe
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\bin\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.deps.json
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\bin\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.runtimeconfig.json
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\bin\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.dll
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\bin\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.pdb
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\bin\Debug\net8.0\Microsoft.OpenApi.dll
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\bin\Debug\net8.0\Newtonsoft.Json.dll
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\bin\Debug\net8.0\FireService.dll
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\bin\Debug\net8.0\MyModelse.dll
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\bin\Debug\net8.0\MyS.dll
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\bin\Debug\net8.0\MyModelse.pdb
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\bin\Debug\net8.0\MyS.pdb
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\bin\Debug\net8.0\FireService.pdb
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net8.0\staticwebassets.build.json
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net8.0\staticwebassets.development.json
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net8.0\staticwebassets\msbuild.תשתית לניהול חנות פיצה-חני גולדברג.Microsoft.AspNetCore.StaticWebAssets.props
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net8.0\staticwebassets\msbuild.build.תשתית לניהול חנות פיצה-חני גולדברג.props
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.תשתית לניהול חנות פיצה-חני גולדברג.props
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.תשתית לניהול חנות פיצה-חני גולדברג.props
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net8.0\staticwebassets.pack.json
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net8.0\scopedcss\bundle\תשתית לניהול חנות פיצה-חני גולדברג.styles.css
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.csproj.CopyComplete
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.genruntimeconfig.cache
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net8.0\ref\תשתית לניהול חנות פיצה-חני גולדברג.dll
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\bin\Debug\net8.0\appsettings.Development.json
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\bin\Debug\net8.0\appsettings.json
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\bin\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.exe
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\bin\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.deps.json
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\bin\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.runtimeconfig.json
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\bin\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.dll
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\bin\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.pdb
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\bin\Debug\net8.0\Microsoft.OpenApi.dll
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\bin\Debug\net8.0\Newtonsoft.Json.dll
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\bin\Debug\net8.0\FireService.dll
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\bin\Debug\net8.0\MyModelse.dll
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\bin\Debug\net8.0\MyS.dll
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\bin\Debug\net8.0\MyModelse.pdb
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\bin\Debug\net8.0\MyS.pdb
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\bin\Debug\net8.0\FireService.pdb
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.csproj.AssemblyReference.cache
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.GeneratedMSBuildEditorConfig.editorconfig
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.AssemblyInfoInputs.cache
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.AssemblyInfo.cs
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.csproj.CoreCompileInputs.cache
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.MvcApplicationPartsAssemblyInfo.cs
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.MvcApplicationPartsAssemblyInfo.cache
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net8.0\staticwebassets.build.json
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net8.0\staticwebassets.development.json
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net8.0\staticwebassets\msbuild.תשתית לניהול חנות פיצה-חני גולדברג.Microsoft.AspNetCore.StaticWebAssets.props
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net8.0\staticwebassets\msbuild.build.תשתית לניהול חנות פיצה-חני גולדברג.props
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.תשתית לניהול חנות פיצה-חני גולדברג.props
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.תשתית לניהול חנות פיצה-חני גולדברג.props
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net8.0\staticwebassets.pack.json
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net8.0\scopedcss\bundle\תשתית לניהול חנות פיצה-חני גולדברג.styles.css
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.csproj.CopyComplete
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.dll
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net8.0\refint\תשתית לניהול חנות פיצה-חני גולדברג.dll
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.pdb
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.genruntimeconfig.cache
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net8.0\ref\תשתית לניהול חנות פיצה-חני גולדברג.dll
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\bin\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.staticwebassets.runtime.json

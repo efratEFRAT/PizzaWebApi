@@ -1,0 +1,6 @@
+@תשתית_לניהול_חנות_פיצה_חני_גולדברג_HostAddress = http://localhost:5190
+
+GET {{תשתית_לניהול_חנות_פיצה_חני_גולדברג_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

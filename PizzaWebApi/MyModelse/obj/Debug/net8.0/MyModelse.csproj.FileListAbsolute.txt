@@ -1,0 +1,42 @@
+H:\webApi\pizza\MyModelse\obj\Debug\net8.0\MyModelse.GeneratedMSBuildEditorConfig.editorconfig
+H:\webApi\pizza\MyModelse\obj\Debug\net8.0\MyModelse.AssemblyInfoInputs.cache
+H:\webApi\pizza\MyModelse\obj\Debug\net8.0\MyModelse.AssemblyInfo.cs
+H:\webApi\pizza\MyModelse\obj\Debug\net8.0\MyModelse.csproj.CoreCompileInputs.cache
+H:\webApi\pizza\MyModelse\bin\Debug\net8.0\MyModelse.deps.json
+H:\webApi\pizza\MyModelse\bin\Debug\net8.0\MyModelse.dll
+H:\webApi\pizza\MyModelse\bin\Debug\net8.0\MyModelse.pdb
+H:\webApi\pizza\MyModelse\obj\Debug\net8.0\MyModelse.dll
+H:\webApi\pizza\MyModelse\obj\Debug\net8.0\refint\MyModelse.dll
+H:\webApi\pizza\MyModelse\obj\Debug\net8.0\MyModelse.pdb
+H:\webApi\pizza\MyModelse\obj\Debug\net8.0\ref\MyModelse.dll
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyModelse\obj\Debug\net8.0\MyModelse.dll
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyModelse\obj\Debug\net8.0\refint\MyModelse.dll
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyModelse\obj\Debug\net8.0\MyModelse.pdb
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyModelse\bin\Debug\net8.0\MyModelse.deps.json
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyModelse\bin\Debug\net8.0\MyModelse.dll
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyModelse\bin\Debug\net8.0\MyModelse.pdb
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyModelse\bin\Debug\net8.0\FireService.dll
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyModelse\bin\Debug\net8.0\FireService.pdb
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyModelse\obj\Debug\net8.0\MyModelse.csproj.AssemblyReference.cache
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyModelse\obj\Debug\net8.0\MyModelse.GeneratedMSBuildEditorConfig.editorconfig
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyModelse\obj\Debug\net8.0\MyModelse.AssemblyInfoInputs.cache
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyModelse\obj\Debug\net8.0\MyModelse.AssemblyInfo.cs
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyModelse\obj\Debug\net8.0\MyModelse.csproj.CoreCompileInputs.cache
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyModelse\obj\Debug\net8.0\MyModelse.sourcelink.json
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyModelse\obj\Debug\net8.0\MyModelse.csproj.CopyComplete
+L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyModelse\obj\Debug\net8.0\ref\MyModelse.dll
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyModelse\bin\Debug\net8.0\MyModelse.deps.json
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyModelse\bin\Debug\net8.0\MyModelse.dll
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyModelse\bin\Debug\net8.0\MyModelse.pdb
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyModelse\bin\Debug\net8.0\FireService.dll
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyModelse\bin\Debug\net8.0\FireService.pdb
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyModelse\obj\Debug\net8.0\MyModelse.csproj.AssemblyReference.cache
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyModelse\obj\Debug\net8.0\MyModelse.GeneratedMSBuildEditorConfig.editorconfig
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyModelse\obj\Debug\net8.0\MyModelse.AssemblyInfoInputs.cache
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyModelse\obj\Debug\net8.0\MyModelse.AssemblyInfo.cs
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyModelse\obj\Debug\net8.0\MyModelse.csproj.CoreCompileInputs.cache
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyModelse\obj\Debug\net8.0\MyModelse.csproj.CopyComplete
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyModelse\obj\Debug\net8.0\MyModelse.dll
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyModelse\obj\Debug\net8.0\refint\MyModelse.dll
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyModelse\obj\Debug\net8.0\MyModelse.pdb
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyModelse\obj\Debug\net8.0\ref\MyModelse.dll
