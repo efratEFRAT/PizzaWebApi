@@ -146,3 +146,4 @@ L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ
 L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.genruntimeconfig.cache
 L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net8.0\ref\תשתית לניהול חנות פיצה-חני גולדברג.dll
 L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\bin\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.staticwebassets.runtime.json
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net8.0\תשתית לניהול חנות פיצה-חני גולדברג.sourcelink.json

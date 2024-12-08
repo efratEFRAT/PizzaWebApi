@@ -40,3 +40,4 @@ L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ
 L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyModelse\obj\Debug\net8.0\refint\MyModelse.dll
 L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyModelse\obj\Debug\net8.0\MyModelse.pdb
 L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyModelse\obj\Debug\net8.0\ref\MyModelse.dll
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyModelse\obj\Debug\net8.0\MyModelse.sourcelink.json

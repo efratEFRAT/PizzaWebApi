@@ -48,3 +48,4 @@ L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ
 L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyS\obj\Debug\net8.0\refint\MyS.dll
 L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyS\obj\Debug\net8.0\MyS.pdb
 L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyS\obj\Debug\net8.0\ref\MyS.dll
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyS\obj\Debug\net8.0\MyS.sourcelink.json

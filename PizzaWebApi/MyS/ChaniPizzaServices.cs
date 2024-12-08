@@ -5,14 +5,13 @@ using FireService.Interfaces;
 namespace MyS;
 public class ChanisPizzaServices:IpizzaMannager
 {
+    IFireService<ChanisPizza> _Ifile;
+      // string path=@"L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi/file.json";
 
-      IFireService<ChanisPizza> _Ifile;
-      string path=@"L:\webAPI\הגשות\lesson5\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\file.json";
-
-      public ChanisPizzaServices(IFireService<ChanisPizza> Ifile){
-            _Ifile = Ifile;
+      // public ChanisPizzaServices(IFireService<ChanisPizza> Ifile){
+      //       _Ifile = Ifile;
             
-      }
+      // }
     List<ChanisPizza> p1=new List<ChanisPizza>()
     {
         new ChanisPizza("pizzaShemesh",1,true),
@@ -24,7 +23,7 @@ public class ChanisPizzaServices:IpizzaMannager
       //    if(p1!=null)
       //     return p1;
       //     return null;
-     List<ChanisPizza> p2 =  _Ifile.Read(path);
+     List<ChanisPizza> p2 =  _Ifile.Read();
      if (p2!=null)
      {
       return p2;
@@ -32,7 +31,7 @@ public class ChanisPizzaServices:IpizzaMannager
      return null;
     } 
     public ChanisPizza getPizza(int id){
-      List<ChanisPizza> p3 =  _Ifile.Read(path);
+      List<ChanisPizza> p3 =  _Ifile.Read();
       foreach (var i in p3)
             {
                 if(i.pizzaId==id)
@@ -41,7 +40,7 @@ public class ChanisPizzaServices:IpizzaMannager
             return null;
     }
     public ChanisPizza getPizzaByName(string name){
-      List<ChanisPizza> p4 =  _Ifile.Read(path);
+    List<ChanisPizza> p4 =  _Ifile.Read();
      foreach (var i in p4)
             {
                  if(i.pizzaName.Equals( name))
@@ -51,7 +50,7 @@ public class ChanisPizzaServices:IpizzaMannager
     }
     public void setPizza(string name,int id,bool ifGloten){
     ChanisPizza c1 = new ChanisPizza (name, id, ifGloten);
-    _Ifile. Write(c1, path);
+    _Ifile.Write(c1);
         
             
     }

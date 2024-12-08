@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("תשתית לניהול חנות פיצה-חני גולדברג")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1e29f64155fea676a0432a9992af8957d679598")]
 [assembly: System.Reflection.AssemblyProductAttribute("תשתית לניהול חנות פיצה-חני גולדברג")]
 [assembly: System.Reflection.AssemblyTitleAttribute("תשתית לניהול חנות פיצה-חני גולדברג")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

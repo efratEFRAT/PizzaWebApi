@@ -1,15 +1,18 @@
 using System.Security.Cryptography;
+using FireService;
+using FireService.Interfaces;
 using Microsoft.AspNetCore.Mvc;
+using MyModelse;
 using MyModelse.Interface;
 namespace webapiPizzaStore.Controllers;
 
 public class ChanisPizzaController :BaceController
 {
        IpizzaMannager _chanisPizza;
-     
+      
       public ChanisPizzaController(IpizzaMannager pizza)
       {
-        _chanisPizza=pizza;    
+        _chanisPizza=pizza;   
       }
       [Route("[action]")]
       [HttpGet]
@@ -20,6 +23,8 @@ public class ChanisPizzaController :BaceController
                   Ok(p1);
             return NotFound("pizza list!!!!");
       }
+
+
       [Route("[action]/{id}")]
       [HttpGet]
       public IActionResult getPizza(int id)

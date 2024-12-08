@@ -23,3 +23,4 @@ L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ
 L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\FireService\obj\Debug\net7.0\refint\FireService.dll
 L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\FireService\obj\Debug\net7.0\FireService.pdb
 L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\FireService\obj\Debug\net7.0\ref\FireService.dll
+L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\FireService\obj\Debug\net7.0\FireService.sourcelink.json
