@@ -26,7 +26,7 @@ function addpizza() {
             .then((response) => response.text())
             .then((result) => console.log(result))
             .catch((error) => console.error(error));
-            console.log("הוספת פיצה:", pizzaId, pizzaName, pizzaGluten);
+             console.log("הוספת פיצה:",pizzaName,pizzaId, pizzaGluten);
 
             // סגור את הפופאפ
             closePopup();

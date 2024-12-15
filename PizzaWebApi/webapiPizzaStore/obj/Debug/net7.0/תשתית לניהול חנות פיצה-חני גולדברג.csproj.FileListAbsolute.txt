@@ -32,9 +32,10 @@ C:\Users\USER\Desktop\webapi\LESSON6_1\PizzaWebApi\PizzaWebApi\webapiPizzaStore\
 C:\Users\USER\Desktop\webapi\LESSON6_1\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net7.0\staticwebassets.build.json
 C:\Users\USER\Desktop\webapi\LESSON6_1\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net7.0\staticwebassets.development.json
 C:\Users\USER\Desktop\webapi\LESSON6_1\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net7.0\scopedcss\bundle\תשתית לניהול חנות פיצה-חני גולדברג.styles.css
-C:\Users\USER\Desktop\webapi\LESSON6_1\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net7.0\תשתית לניהול חנות פיצה-חני גולדברג.csproj.CopyComplete
 C:\Users\USER\Desktop\webapi\LESSON6_1\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net7.0\תשתית לניהול חנות פיצה-חני גולדברג.dll
 C:\Users\USER\Desktop\webapi\LESSON6_1\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net7.0\refint\תשתית לניהול חנות פיצה-חני גולדברג.dll
 C:\Users\USER\Desktop\webapi\LESSON6_1\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net7.0\תשתית לניהול חנות פיצה-חני גולדברג.pdb
 C:\Users\USER\Desktop\webapi\LESSON6_1\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net7.0\תשתית לניהול חנות פיצה-חני גולדברג.genruntimeconfig.cache
 C:\Users\USER\Desktop\webapi\LESSON6_1\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net7.0\ref\תשתית לניהול חנות פיצה-חני גולדברג.dll
+C:\Users\USER\Desktop\webapi\LESSON6_1\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net7.0\תשתית לניהול חנות פיצה-חני גולדברג.sourcelink.json
+C:\Users\USER\Desktop\webapi\LESSON6_1\PizzaWebApi\PizzaWebApi\webapiPizzaStore\obj\Debug\net7.0\_____ __.2490736C.Up2Date

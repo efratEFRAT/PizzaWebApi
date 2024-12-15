@@ -10,7 +10,6 @@ using FireService.Interfaces;
 using MyModelse;
 using MyModelse.Interface;
 namespace webapiPizzaStore.Controllers;
-
 public class ChanisPizzaController :BaceController
 {
        IpizzaMannager _chanisPizza;
@@ -19,6 +18,7 @@ public class ChanisPizzaController :BaceController
       {
         _chanisPizza=pizza;   
       }
+
       [Route("[action]")]
       [HttpGet]
       public IActionResult getPizzaList()
