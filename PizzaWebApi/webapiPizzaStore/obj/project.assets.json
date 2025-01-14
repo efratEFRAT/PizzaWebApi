@@ -118,9 +118,6 @@
       "MyModelse/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "FireService": "1.0.0"
-        },
         "compile": {
           "bin/placeholder/MyModelse.dll": {}
         },

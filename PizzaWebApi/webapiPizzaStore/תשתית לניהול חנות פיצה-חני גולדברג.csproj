@@ -14,11 +14,13 @@
 
   <ItemGroup>
  
-    <ProjectReference Include="..\MyModelse\MyModelse.csproj" />
+    <!-- <ProjectReference Include="..\MyModelse\MyModelse.csproj" /> -->
  
     <ProjectReference Include="..\MyS\MyS.csproj" />
  
     <ProjectReference Include="..\FireService\FireService.csproj" />
+ 
+    <ProjectReference Include="..\MyModelse\MyModelse.csproj" />
   </ItemGroup>
 
 </Project>

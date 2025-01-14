@@ -17,6 +17,7 @@ builder.Services.AddSingleton<IpizzaMannager,ChanisPizzaServices>();
 builder.Services.AddTransient<IorderManager,OrderService>();
 builder.Services.AddScoped<IworkerManager,workerService>();
  builder.Services.AddSingleton<IFireService<ChanisPizza>>(new ReadWrite<ChanisPizza>(@"C:\Users\USER\Desktop\webapi\LESSON6_1\PizzaWebApi\PizzaWebApi\file.json"));
+builder.Services.AddSingleton<IFireService<Order>>(new ReadWrite<Order>(@"C:\Users\USER\Desktop\webapi\LESSON6_1\PizzaWebApi\PizzaWebApi\bill.json"));
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddProblemDetails();

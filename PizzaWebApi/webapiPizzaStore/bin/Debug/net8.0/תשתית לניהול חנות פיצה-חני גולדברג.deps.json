@@ -84,9 +84,6 @@
         }
       },
       "MyModelse/1.0.0": {
-        "dependencies": {
-          "FireService": "1.0.0"
-        },
         "runtime": {
           "MyModelse.dll": {
             "assemblyVersion": "1.0.0",
