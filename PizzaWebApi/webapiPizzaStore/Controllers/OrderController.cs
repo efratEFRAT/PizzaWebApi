@@ -39,7 +39,7 @@ public async Task<IActionResult> PlaceOrderAsync(string orderName, int pizzaId, 
     // יצירת אובייקט הזמנה
     Order order1 = new Order(orderName, pizzaId, address, num, threeDig, date);
 
- 
+        bool result = await _Order.ProcessOrderAsync(order1);
 
 
     if(result)
