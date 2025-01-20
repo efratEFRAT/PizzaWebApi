@@ -5,12 +5,11 @@ namespace webapiPizzaStore.Controllers;
 [Route("[controller]")]
 public class BaceController:ControllerBase
 {
-    [HttpGet]
+[HttpGet]
 [Route("TestAuthorization")]
 public IActionResult TestAuthorization()
 {
-    var roleClaim = User.Claims.FirstOrDefault(c => c.Type == "role")?.Value;
-    return Ok($"Your role is: {roleClaim}");
-}
-    
+    var claims = User.Claims.Select(c => $"{c.Type}: {c.Value}").ToList();
+    return Ok($"Claims: {string.Join(", ", claims)}");
+}  
 }

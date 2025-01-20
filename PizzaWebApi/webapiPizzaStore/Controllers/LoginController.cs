@@ -26,12 +26,11 @@ public LoginController ( Ilogin identety,ILogger<LoginController> logger){
 [HttpPost]
 [Route("[action]/{name}/{password}")]
 public IActionResult Login(string name,int password){
-var dt= DateTime.Now;
+
    Worker w=_identety.IsExist(name,password);
    if(w==null){
     return Unauthorized("you not exsist");
    }
-
    var claims=new List<Claim>
    {
     new Claim("role",w.role),

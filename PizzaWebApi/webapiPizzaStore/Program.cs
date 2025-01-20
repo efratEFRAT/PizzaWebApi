@@ -33,14 +33,11 @@ builder.Services
                   cfg.RequireHttpsMetadata = false;
                   cfg.TokenValidationParameters = LoginToken.GetTokenValidationParameters();
               });
-
-        builder.Services.AddAuthorization(cfg =>
-        {
-            cfg.AddPolicy("Admin", policy => policy.RequireClaim("role", "Admin"));
-            cfg.AddPolicy("superWorker", policy => policy.RequireClaim("role", "superWorker"));
-
-        });
-
+builder.Services.AddAuthorization(cfg =>
+{
+    cfg.AddPolicy("Admin", policy => policy.RequireClaim("role", "Admin"));
+      cfg.AddPolicy("superWorker", policy => policy.RequireClaim("role", "superWorker"));
+});
 
 builder.Services.AddSwaggerGen(c =>
 {
@@ -80,11 +77,9 @@ else{
  app.UseStaticFiles();
 
 app.UseHttpsRedirection();
-app.UseAuthorization();
+
 app.UseAuthentication();
-
-
-
+app.UseAuthorization();
 app.MapControllers();
 //  app.MapFallbackToFile("/index.html");
 //  app.UseCustom();

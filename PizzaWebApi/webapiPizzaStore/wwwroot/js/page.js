@@ -39,7 +39,8 @@ function login() {
         token = result; // כאן נשמר ה-TOKEN במשתנה
         document.getElementById("errorMessage").style.display = "none"; // החבא את הודעת השגיאה
         alert("ההתחברות הצליחה!");
-        alert( token);
+       console.log( token);
+      
         // הצגת דף הוספת הפיצה
         document.getElementById("loginForm").style.display = "none";
         document.getElementById("pizzaSection").style.display = "block";
@@ -49,13 +50,13 @@ function login() {
         console.error("שגיאה בהתחברות:", error);
     });
 }
-// פונקציה להוספת פיצה
 function addpizza() {
     // יצירת אובייקט פיצה
     var pizza1 = {};
     pizza1.name = document.getElementById('name').value;
     pizza1.id = document.getElementById('id').value;
-    pizza1.isGluten = document.getElementById('isGluten').value;
+    // pizza1.isGluten = document.getElementById('isGluten').value;
+    pizza1.isGluten = document.getElementById('isGluten').checked;
 
     // יצירת כותרות הבקשה
     var myHeaders = new Headers();
