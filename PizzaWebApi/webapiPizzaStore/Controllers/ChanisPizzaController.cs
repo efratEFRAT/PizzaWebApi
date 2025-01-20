@@ -1,9 +1,12 @@
+
+using Microsoft.AspNetCore.Mvc;
 using System;
+using Microsoft.AspNetCore.Authorization;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
+
 using Microsoft.Extensions.Logging;
 using FireService;
 using FireService.Interfaces;
@@ -32,6 +35,7 @@ public class ChanisPizzaController :BaceController
 
       [Route("[action]/{id}")]
       [HttpGet]
+      
       public IActionResult getPizza(int id)
       {
             var p1 =_chanisPizza.getPizza(id);
@@ -55,14 +59,17 @@ public class ChanisPizzaController :BaceController
 
       [Route("[action]/{name}/{id}/{ifGloten}")]
       [HttpPost]
+      [Authorize(Policy = "Admin")]
       public void setPizza(string name, int id, bool ifGloten)
       {
          _chanisPizza.setPizza(name,id,ifGloten);
+         TestAuthorization();
           
       }
 
       [Route("[action]/{id}")]
       [HttpDelete]
+      [Authorize(Policy = "superWorker")]
       public IActionResult deletePizza(int id)
       {
             bool p1 =_chanisPizza.deletePizza (id);
@@ -76,6 +83,7 @@ public class ChanisPizzaController :BaceController
 
       [Route("[action]/{id}/{ifGloten}")]
       [HttpPut]
+      [Authorize(Policy = "superWorker")]
       public IActionResult updatePizza(int id, bool ifGloten)
       {
 

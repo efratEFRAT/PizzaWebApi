@@ -5,14 +5,9 @@ namespace FireService;
 
 public class ReadWrite<T>:IFireService<T>
 {
-     private readonly string _path;
+   string _path;
 
     public ReadWrite(string path) => _path = path;
-
-
-
-
-
     public List<T> Read()
     { 
         var list = new List<T>();

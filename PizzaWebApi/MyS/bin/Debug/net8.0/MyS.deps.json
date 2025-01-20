@@ -28,15 +28,18 @@
           "Newtonsoft.Json": "13.0.3"
         },
         "runtime": {
-          "FireService.dll": {}
+          "FireService.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "MyModelse/1.0.0": {
-        "dependencies": {
-          "FireService": "1.0.0"
-        },
         "runtime": {
-          "MyModelse.dll": {}
+          "MyModelse.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

@@ -1,7 +1,9 @@
 using System.Security.Cryptography;
 using Microsoft.AspNetCore.Mvc;
+using System;
+using Microsoft.AspNetCore.Authorization;
 using MyModelse.Interface;
-
+using MyModelse;
 namespace webapiPizzaStore.Controllers;
 public class WorkerController : BaceController
 {
@@ -11,25 +13,28 @@ public class WorkerController : BaceController
     {
          _worker=worker;
     }
-    [Route("[action]")]
+    [Route("[action]/{name}/{id}/{password}/{role}")]
     [HttpPost]
-    public void postworker(string name, int id)
+    [Authorize(Policy = "superWorker")]
+    public void Writeworker(string name,int id,int password ,string  role)
     {
-        _worker.postworker(name,id);
+        _worker.postworker(name,id,password,role);
     }
 
-    [Route("[action]")]
-    [HttpPut]
-    public IActionResult putworker(string name,int id)
+     [Route("[action]/{name}/{id}/{password}/{role}")]
+     [HttpPut]
+   
+     public IActionResult ChangeNameworker(string name,int id,int password,string role)
     {
 
-        if (_worker.putworker(name,id) == true)
+        if (_worker.putworker(name,id,password,role) == true)
         {
-            return Ok("GOOD");
+            return Ok("Name change successful.");
+
         }
         else
         {
-            return NotFound();
+            return NotFound("The worker could not be found or updated.");
         }
 
     }

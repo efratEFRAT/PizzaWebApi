@@ -6,12 +6,10 @@ namespace MyS;
 public class ChanisPizzaServices:IpizzaMannager
 {
     IFireService<ChanisPizza> _Ifile;
-      // string path=@"L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi/file.json";
-
-      // public ChanisPizzaServices(IFireService<ChanisPizza> Ifile){
-      //       _Ifile = Ifile;
+      public ChanisPizzaServices(IFireService<ChanisPizza> Ifile){
+            _Ifile = Ifile;
             
-      // }
+      }
     List<ChanisPizza> p1=new List<ChanisPizza>()
     {
         new ChanisPizza("pizzaShemesh",1,true),
@@ -48,9 +46,11 @@ public class ChanisPizzaServices:IpizzaMannager
             }
             return null;
     }
-    public void setPizza(string name,int id,bool ifGloten){
+    public void setPizza(string name,int id,bool ifGloten)
+    {
     ChanisPizza c1 = new ChanisPizza (name, id, ifGloten);
     _Ifile.Write(c1);
+   
         
             
     }

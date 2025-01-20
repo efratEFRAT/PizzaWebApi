@@ -1,5 +1,4 @@
-
-namespace MyModelse.Interface;
+namespace MyModelse.Interface{
 public interface IpizzaMannager{
     List<ChanisPizza> getPizzaList();
     ChanisPizza getPizza(int id);
@@ -10,5 +9,5 @@ public interface IpizzaMannager{
 
     
 
-
+}
 }

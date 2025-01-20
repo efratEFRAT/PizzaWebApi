@@ -1,118 +1,251 @@
-/* Reset some basic styles */
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
 
-/* Body Styling */
+/* הגדרות כלליות לדף */
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #f5f5f5;
-    color: #333;
-    padding: 20px;
-}
-
-/* Container for the whole page */
-.container {
-    width: 80%;
-    max-width: 900px;
-    margin: 0 auto;
-    background-color: white;
-    padding: 20px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
-/* Header styling */
-header {
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
     text-align: center;
-    margin-bottom: 20px;
 }
 
 h1 {
-    color: #ff6347; /* Tomato color */
-    font-size: 36px;
+    color: #ff6f61;
+    margin-top: 20px;
 }
 
-h2 {
-    color: #444;
-    font-size: 24px;
+.container {
+    margin: 50px auto;
+    max-width: 600px;
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-/* Button Styling */
-button {
-    width: 100%;
-    padding: 12px;
-    background-color: #ff6347;
+.btn {
+    background-color: #ff6f61;
     color: white;
-    font-size: 18px;
+    padding: 10px 20px;
     border: none;
     border-radius: 5px;
-    cursor: pointer;
-    margin-bottom: 20px;
-}
-
-button:hover {
-    background-color: #e5533b; /* Darker Tomato */
-}
-
-/* Form Styling */
-.pizza-form {
-    margin-bottom: 40px;
-    display: none; /* Initially hidden */
-}
-
-.form-group {
-    margin-bottom: 20px;
-}
-
-label {
-    display: block;
-    font-weight: bold;
-    margin-bottom: 8px;
-}
-
-input, select {
-    width: 100%;
-    padding: 12px;
     font-size: 16px;
-    border-radius: 5px;
-    border: 1px solid #ccc;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
 }
 
-button[type="button"] {
-    background-color: #4CAF50; /* Green color for submit button */
+.btn:hover {
+    background-color: #ff3b2a;
 }
 
-button[type="button"]:hover {
-    background-color: #45a049; /* Darker Green */
+/* עיצוב כפתור להוספת פיצה */
+#addPizzaBtn {
+    margin-top: 30px;
+    background-color: #4CAF50;
 }
 
-/* Table Styling */
-.pizza-list {
-    margin-top: 40px;
-}
-
+/* עיצוב טבלה */
 table {
     width: 100%;
-    border-collapse: collapse;
     margin-top: 20px;
+    border-collapse: collapse;
+    border-radius: 10px;
+    overflow: hidden;
 }
 
 th, td {
     padding: 12px;
-    text-align: left;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
 }
 
 th {
-    background-color: #ff6347;
+    background-color: #ff6f61;
     color: white;
-}
-
-tr:nth-child(even) {
-    background-color: #f9f9f9;
 }
 
 tr:hover {
     background-color: #f1f1f1;
 }
+
+/* עיצוב לפופאפ */
+.popup {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    justify-content: center;
+    align-items: center;
+}
+
+.popup-content {
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    width: 400px;
+    text-align: center;
+}
+
+.popup-content input {
+    margin: 10px 0;
+    padding: 10px;
+    width: 80%;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+
+.popup-content button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.popup-content button:hover {
+    background-color: #45a049;
+}
+
+.close-btn {
+    color: #aaa;
+    font-size: 28px;
+    font-weight: bold;
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    cursor: pointer;
+}
+
+.close-btn:hover,
+.close-btn:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* הגדרות כלליות לדף */
+
+
+.btn {
+    background-color: #ff6f61;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #ff3b2a;
+}
+
+/* עיצוב כפתור להוספת פיצה */
+#addPizzaBtn {
+    margin-top: 30px;
+    background-color: #4CAF50;
+}
+
+/* עיצוב לפופאפ */
+.popup {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    justify-content: center;
+    align-items: center;
+}
+
+.popup-content {
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    width: 400px;
+    text-align: center;
+}
+
+.popup-content input {
+    margin: 10px 0;
+    padding: 10px;
+    width: 80%;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+
+.popup-content button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.popup-content button:hover {
+    background-color: #45a049;
+}
+
+.close-btn {
+    color: #aaa;
+    font-size: 28px;
+    font-weight: bold;
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    cursor: pointer;
+}
+
+.close-btn:hover,
+.close-btn:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* עיצוב לדף התחברות */
+#loginForm {
+    margin: 50px auto;
+    max-width: 500px;
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#loginForm input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+
+#loginForm button {
+    width: 100%;
+    padding: 10px;
+    background-color: #ff6f61;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#loginForm button:hover {
+    background-color: #ff3b2a;
+}
+
+#errorMessage {
+    color: red;
+    display: none;
+    font-size: 14px;
+}
+

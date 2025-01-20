@@ -1,1 +1,52 @@
-[{"pizzaName":null,"pizzaId":0,"ifGloten":false},{"pizzaName":null,"pizzaId":0,"ifGloten":false},{"pizzaName":"mashroom","pizzaId":3,"ifGloten":false}]
+[
+    {
+        "pizzaName": "אאא",
+        "pizzaId": 34,
+        "ifGloten": true
+    },
+    {
+        "pizzaName": "mukremet6",
+        "pizzaId": 123,
+        "ifGloten": true
+    },
+    {
+        "pizzaName": "mukremet6",
+        "pizzaId": 123,
+        "ifGloten": true
+    },
+    {
+        "pizzaName": "mukremet6",
+        "pizzaId": 12,
+        "ifGloten": true
+    },
+    {
+        "pizzaName": "yayyyy",
+        "pizzaId": 12,
+        "ifGloten": false
+    },
+    {
+        "pizzaName": "yayyyy",
+        "pizzaId": 12,
+        "ifGloten": false
+    },
+    {
+        "pizzaName": "yayyyy",
+        "pizzaId": 12,
+        "ifGloten": false
+    },
+    {
+        "pizzaName": "yayyyy",
+        "pizzaId": 12,
+        "ifGloten": false
+    },
+    {
+        "pizzaName": "new",
+        "pizzaId": 12,
+        "ifGloten": false
+    },
+    {
+        "pizzaName": "yayyyy",
+        "pizzaId": 12,
+        "ifGloten": false
+    }
+]

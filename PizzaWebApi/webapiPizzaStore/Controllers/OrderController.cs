@@ -5,13 +5,14 @@ using MyModelse;
 namespace webapiPizzaStore.Controllers;
 public class OrderController : BaceController
 {
-    private readonly IorderManager _Order;
+     IorderManager _Order;
     
 
     public OrderController(IorderManager order)
     {
         _Order = order;
     }
+    [HttpPost]
     public void PostOrdet(string orderName, int pizzaId, string addres, int num, int threeDig, string date)
     {
         _Order.postOrdet(orderName, pizzaId, addres, num, threeDig, date);
@@ -32,7 +33,7 @@ public class OrderController : BaceController
         }
 
     }
-[Route("[action]")]
+[Route("[action]/{orderName}/{date}/{address}/{pizzaId}/{threeDig}/{num}/")]
 [HttpPost]
 public async Task<IActionResult> PlaceOrderAsync(string orderName, int pizzaId, string address, int num, int threeDig, string date)
 {

@@ -1,0 +1,13 @@
+C:\Users\USER\Desktop\webapi\LESSON6_1\PizzaWebApi\PizzaWebApi\FireService\bin\Debug\net8.0\FireService.deps.json
+C:\Users\USER\Desktop\webapi\LESSON6_1\PizzaWebApi\PizzaWebApi\FireService\bin\Debug\net8.0\FireService.dll
+C:\Users\USER\Desktop\webapi\LESSON6_1\PizzaWebApi\PizzaWebApi\FireService\bin\Debug\net8.0\FireService.pdb
+C:\Users\USER\Desktop\webapi\LESSON6_1\PizzaWebApi\PizzaWebApi\FireService\obj\Debug\net8.0\FireService.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\webapi\LESSON6_1\PizzaWebApi\PizzaWebApi\FireService\obj\Debug\net8.0\FireService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\webapi\LESSON6_1\PizzaWebApi\PizzaWebApi\FireService\obj\Debug\net8.0\FireService.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\webapi\LESSON6_1\PizzaWebApi\PizzaWebApi\FireService\obj\Debug\net8.0\FireService.AssemblyInfo.cs
+C:\Users\USER\Desktop\webapi\LESSON6_1\PizzaWebApi\PizzaWebApi\FireService\obj\Debug\net8.0\FireService.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\webapi\LESSON6_1\PizzaWebApi\PizzaWebApi\FireService\obj\Debug\net8.0\FireService.sourcelink.json
+C:\Users\USER\Desktop\webapi\LESSON6_1\PizzaWebApi\PizzaWebApi\FireService\obj\Debug\net8.0\FireService.dll
+C:\Users\USER\Desktop\webapi\LESSON6_1\PizzaWebApi\PizzaWebApi\FireService\obj\Debug\net8.0\refint\FireService.dll
+C:\Users\USER\Desktop\webapi\LESSON6_1\PizzaWebApi\PizzaWebApi\FireService\obj\Debug\net8.0\FireService.pdb
+C:\Users\USER\Desktop\webapi\LESSON6_1\PizzaWebApi\PizzaWebApi\FireService\obj\Debug\net8.0\ref\FireService.dll

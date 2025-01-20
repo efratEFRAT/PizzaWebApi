@@ -1,14 +1,25 @@
 using MyModelse;
 using MyModelse.Interface;
+
+using FireService;
+using FireService.Interfaces;
 namespace MyS;
 public class OrderService : IorderManager
 {
-    List<Order> o1 = new List<Order>();
-
-
-    public void postOrdet(string orderName, int pizzaId, string addres)
+    IFireService<Order> _fileBill;
+    public OrderService(IFireService<Order> fileBill)
     {
-        Order o = new Order(orderName, pizzaId, addres);
+        _fileBill = fileBill;
+
+    }
+    List<Order> o1 = new List<Order>()
+    {
+
+    };
+
+    public void postOrdet(string orderName, int pizzaId, string addres, int num, int threeDig, string date)
+    {
+        Order o = new Order(orderName, pizzaId, addres, num, threeDig, date);
         o1.Add(o);
     }
     public bool deleteOrder(string name)
@@ -24,15 +35,44 @@ public class OrderService : IorderManager
         }
         return false;
     }
+    public async Task<bool> payPostAsync(Visa myVisa)
+    {
+        Console.WriteLine("Processing payment...");
+        await Task.Delay(5000);
+        Console.WriteLine("finish pay");
+        return true;
+    }
+    public async Task PreparePizzaAsync()
+    {
+        Console.WriteLine("Processing preparing the pizza...");
+        await Task.Delay(15000);
+        Console.WriteLine("finish pizza");
+    }
 
-    // public string orderName { get; set;}
-    //     public int pizzaId {get; set;}
-    //     public string addres { get; set;}
-    //        public Order(string orderName,int pizzaId,string addres)
-    //     {
-    //         this.orderName=orderName;
-    //         this.pizzaId=pizzaId;
-    //         this.addres=addres;
-    //     }
+
+    public async Task BillAsync(Order order)
+    {
+
+        _fileBill.Write(order);
+    }
+    public async Task<bool> ProcessOrderAsync(Order order)
+    {
+
+        bool paymentSuccessful = await payPostAsync(order.myVisa);
+        if (!paymentSuccessful)
+        {
+            return false;
+        }
+
+
+        await PreparePizzaAsync();
+
+
+        await BillAsync(order);
+
+        return true;
+    }
 
 }
+
+

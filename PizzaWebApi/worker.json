@@ -1,0 +1,26 @@
+[
+    {
+        "name": "tami",
+        "id": 1,
+        "role": "Admin",
+        "password": 329149116
+    },
+    {
+        "name": "efrat",
+        "id": 2,
+        "role": "Admin",
+        "password": 215127978
+    },
+    {
+        "name": "ayala",
+        "id": 3,
+        "role": "superWorker",
+        "password": 2345
+    },
+    {
+        "name": "shira",
+        "id": 4,
+        "role": "superWorker",
+        "password": 2345234
+    }
+]

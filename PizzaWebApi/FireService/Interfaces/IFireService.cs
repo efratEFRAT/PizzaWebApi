@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 namespace FireService.Interfaces;
-{
+
 public interface IFireService<T>
 {
     //   void ReadWrite<T>(string path);
@@ -12,5 +12,4 @@ public interface IFireService<T>
     void Write(T obj);
 
 
-}
 }

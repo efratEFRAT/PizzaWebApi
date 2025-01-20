@@ -1,7 +1,10 @@
-namespace MyModelse;
+// using System.ComponentModel.DataAnnotations;
 
+namespace MyModelse;
 public class ChanisPizza
 {
+
+
         public string pizzaName { get; set; }
 
         public int pizzaId {get; set;}

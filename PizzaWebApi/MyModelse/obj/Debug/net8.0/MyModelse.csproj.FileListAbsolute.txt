@@ -41,3 +41,15 @@ L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ
 L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyModelse\obj\Debug\net8.0\MyModelse.pdb
 L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyModelse\obj\Debug\net8.0\ref\MyModelse.dll
 L:\webAPI\הגשות\lesson6\תמי שיקוביצקי ואפרת מרקוביץ\PizzaWebApi\PizzaWebApi\MyModelse\obj\Debug\net8.0\MyModelse.sourcelink.json
+C:\Users\USER\Desktop\webapi\LESSON6_1\PizzaWebApi\PizzaWebApi\MyModelse\bin\Debug\net8.0\MyModelse.deps.json
+C:\Users\USER\Desktop\webapi\LESSON6_1\PizzaWebApi\PizzaWebApi\MyModelse\bin\Debug\net8.0\MyModelse.dll
+C:\Users\USER\Desktop\webapi\LESSON6_1\PizzaWebApi\PizzaWebApi\MyModelse\bin\Debug\net8.0\MyModelse.pdb
+C:\Users\USER\Desktop\webapi\LESSON6_1\PizzaWebApi\PizzaWebApi\MyModelse\obj\Debug\net8.0\MyModelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\webapi\LESSON6_1\PizzaWebApi\PizzaWebApi\MyModelse\obj\Debug\net8.0\MyModelse.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\webapi\LESSON6_1\PizzaWebApi\PizzaWebApi\MyModelse\obj\Debug\net8.0\MyModelse.AssemblyInfo.cs
+C:\Users\USER\Desktop\webapi\LESSON6_1\PizzaWebApi\PizzaWebApi\MyModelse\obj\Debug\net8.0\MyModelse.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\webapi\LESSON6_1\PizzaWebApi\PizzaWebApi\MyModelse\obj\Debug\net8.0\MyModelse.sourcelink.json
+C:\Users\USER\Desktop\webapi\LESSON6_1\PizzaWebApi\PizzaWebApi\MyModelse\obj\Debug\net8.0\MyModelse.dll
+C:\Users\USER\Desktop\webapi\LESSON6_1\PizzaWebApi\PizzaWebApi\MyModelse\obj\Debug\net8.0\refint\MyModelse.dll
+C:\Users\USER\Desktop\webapi\LESSON6_1\PizzaWebApi\PizzaWebApi\MyModelse\obj\Debug\net8.0\MyModelse.pdb
+C:\Users\USER\Desktop\webapi\LESSON6_1\PizzaWebApi\PizzaWebApi\MyModelse\obj\Debug\net8.0\ref\MyModelse.dll
